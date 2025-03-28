@@ -1,3 +1,14 @@
+## [0.0.2] - 2024-03-28
+
+### Changed
+
+- Updated mods
+
+### Added
+
+- Danos-REPOStats
+- Muz_tea-Free_Bird
+
 ## [0.0.1] - 2024-03-28
 
 First push YIPPPPEEEEEE
