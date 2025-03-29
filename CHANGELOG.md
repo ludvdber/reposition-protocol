@@ -1,3 +1,17 @@
+## [0.0.3] - 2024-03-29
+
+### Added
+
+- BobisMods-REPORoles
+- flipf17-DeadTTS
+- flipf17-OpenExtractionWithCart
+- pierre-MoreCuteness
+- GarStudios-Rolling_Giant_Enemy
+- TANCO-InterventionHunter
+- Lazarus-BetterTruckHeals
+- TitanVortex-BigNuke
+- Zehs-ExtractionPointConfirmButton
+
 ## [0.0.2] - 2024-03-28
 
 ### Changed
