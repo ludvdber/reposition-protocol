@@ -1,3 +1,23 @@
+## [0.0.4] - 2024-03-31
+
+### Changed
+
+- Updated mods
+
+### Added
+
+- JacuJ-GnomedGnomeSounds
+- Yuckers-Unique_Potions
+- Spawze-Spawzes_Valuables
+- Tolian-REPODiscordRichPresence
+- BobisMods-LargePupils
+- CarsonJF-EnderPearlMod
+- Snowlance-NoDamageInShop
+- Rebateman-LateJoin
+- BlueAmulet-REPONetworkTweaks
+- GalaxyMods-MoreShopItems
+- soundedsquash-Clear_UI
+
 ## [0.0.3] - 2024-03-29
 
 ### Added
