@@ -23,6 +23,10 @@ ___
 - ✨ **New Cosmetics**: Unlock new cosmetics to personalize your character.
 - 👹 **More Monsters**: Face new terrifying creatures.
 - ⚙️ **Quality of Life Improvements**: Tweaks for a smoother, more enjoyable experience.
+- 🚀 **Stats**: Game stats are displayed in the background of the truck.
+- 🛍️ **In-Store Cart Preview**: View the list of items in your cart and their prices while at the shop.
+- 🔑 **Player Perks Overview**: Press "K" to display the list of players along with their perks.
+- 🗳️ **Map Voting System**: Vote for the next map.
 
 ___
 

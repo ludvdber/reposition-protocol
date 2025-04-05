@@ -1,3 +1,30 @@
+## [0.0.6] - 2024-04-05
+
+### Changed
+
+- Updated mods
+- Better icon
+- Update readme
+
+### Added
+
+- DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
+- UnloadedHangar-ExtensiveQoL
+- Patrick-MapVote
+- Enchanted_Games-CustomGrabColor
+- RoemisTeam-BlackBox
+- khalliv-ShoppingListHUD
+- skylarbottomdog-Master_Chief_Enemy_HuntsmanVariant
+- NEVAR-Duck_saying_BingChilling
+
+## [0.0.5] - 2024-04-05
+
+### Changed
+
+- Updated mods
+- Fewer unity log
+- Logs are no longer recorded on disk (Adding mods increases logging and disk usage)
+
 ## [0.0.4] - 2024-03-31
 
 ### Changed
