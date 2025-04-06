@@ -1,3 +1,10 @@
+## [0.0.7] - 2024-04-06
+
+### Changed
+
+- Updated mods
+- Updated readme
+
 ## [0.0.6] - 2024-04-05
 
 ### Changed

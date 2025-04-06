@@ -6,10 +6,6 @@ ___
 Reposition Protocol was crafted with a focus on maintaining solid performance and maximizing fun, rather than simply
 piling on mods at the cost of stability, which often leads to crashes, long load times, and the frustration of frequent restarts.
 
-This is my second modpack, but I'll do my best to keep it updated while ensuring it stays
-performant. If you’re interested, you can access the source files and suggest changes via the GitHub link at the top of
-the page.
-
 ___
 
 ## Features
