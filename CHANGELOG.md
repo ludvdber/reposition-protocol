@@ -1,3 +1,18 @@
+## [0.0.8] - 2024-04-09
+
+### Changed
+
+- Updated mods
+- Updated readme
+
+### Added
+
+- SNEUS_STUDIO-RETEMINATOR
+
+### Removed 
+
+- enderpearl : causing a lot of crashes
+
 ## [0.0.7] - 2024-04-06
 
 ### Changed

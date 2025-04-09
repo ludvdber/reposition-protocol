@@ -4,7 +4,7 @@ ___
 ## Purpose
 
 Reposition Protocol was crafted with a focus on maintaining solid performance and maximizing fun, rather than simply
-piling on mods at the cost of stability, which often leads to crashes, long load times, and the frustration of frequent restarts.
+piling on mods at the cost of stability.
 
 ___
 
@@ -41,8 +41,3 @@ Installing **Reposition Protocol** is straightforward:
 
 
 </details>
-
-___
-
-# I hope you'll have a lot of fun! 
-# LINGAN GOLIGOLI WACHA LINGAN GO LINGAN GO 🗣🗣🔥🔥
