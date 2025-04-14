@@ -17,7 +17,7 @@ ___
 - 🎧 **New Sounds**: Chilling new sounds and boombox (grab a cart and press Y).
 - 🛠️ **Bug Fixes & Performance Optimizations**: Smoother performance and resolved bugs for an optimized experience.
 - ✨ **New Cosmetics**: Unlock new cosmetics to personalize your character.
-- 👹 **More Monsters**: Face new terrifying creatures.
+- 👹 **More Monsters and maps**: Face new terrifying creatures in new environments.
 - ⚙️ **Quality of Life Improvements**: Tweaks for a smoother, more enjoyable experience.
 - 🚀 **Stats**: Game stats are displayed in the background of the truck.
 - 🛍️ **In-Store Cart Preview**: View the list of items in your cart and their prices while at the shop.

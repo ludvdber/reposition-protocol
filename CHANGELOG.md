@@ -1,3 +1,29 @@
+## [0.0.10] - 2024-04-14
+
+### Changed
+
+- Updated mods
+
+### Added
+
+- Lunoid-REPO_Alchemy
+- Kistras-CustomDiscoverStateLib
+
+
+## [0.0.9] - 2024-04-11
+
+### Changed
+
+- Updated mods
+
+### Added
+
+- AriIcedT-MinecraftStrongholdLevel
+- MelanieMelicious-Melanie_REPO_Levels_MelanieMelicious
+- NEVAR-OiiaCatMusicBoxValuable
+- AriIcedT-ValuableCans
+- dig-REPOPresents
+
 ## [0.0.8] - 2024-04-09
 
 ### Changed
