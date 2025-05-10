@@ -1,3 +1,26 @@
+## [0.0.13] - 2024-05-09
+
+### Changed
+
+- Updated mods
+
+### Added
+
+- CoddingCat-ToggleMute
+- discjenny-CartSpeedSync
+- Sticks-Semibot_Model_Replacements
+- Tolian-Tolian_Levels
+- linkoid-RoboUnion
+- Beaniebe-Deeproot_Garden
+- CarsonJF-RaygunMod
+- SeroRonin-ItemBundles
+- Lluciocc-GamblingMachine
+- eth9n-Mimic
+- Traktool-EnhancedStaminaUpgrade
+- Sangrento-SillyValuables
+- Magic_Wesley-Wesleys_Levels
+- Dumbapple-MonsterPlushies
+
 ## [0.0.12] - 2024-05-08
 
 ### Changed
