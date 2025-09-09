@@ -1,4 +1,10 @@
-## [0.0.14] - 2024-06-06
+## [0.0.15] - 2025-09-09
+
+### Changed
+
+- Updated mods
+
+## [0.0.14] - 2025-06-06
 
 ### Changed
 
@@ -9,7 +15,7 @@
 - Hamunii-DetourContext_Dispose_Fix
 - Hamunii-AutoHookGenPatcher
 
-## [0.0.13] - 2024-05-09
+## [0.0.13] - 2025-05-09
 
 ### Changed
 
@@ -32,19 +38,19 @@
 - Magic_Wesley-Wesleys_Levels
 - Dumbapple-MonsterPlushies
 
-## [0.0.12] - 2024-05-08
+## [0.0.12] - 2025-05-08
 
 ### Changed
 
 - Updated mods
 
-## [0.0.11] - 2024-04-25
+## [0.0.11] - 2025-04-25
 
 ### Changed
 
 - Updated mods
 
-## [0.0.10] - 2024-04-14
+## [0.0.10] - 2025-04-14
 
 ### Changed
 
@@ -56,7 +62,7 @@
 - Kistras-CustomDiscoverStateLib
 
 
-## [0.0.9] - 2024-04-11
+## [0.0.9] - 2025-04-11
 
 ### Changed
 
@@ -70,7 +76,7 @@
 - AriIcedT-ValuableCans
 - dig-REPOPresents
 
-## [0.0.8] - 2024-04-09
+## [0.0.8] - 2025-04-09
 
 ### Changed
 
@@ -85,14 +91,14 @@
 
 - enderpearl : causing a lot of crashes
 
-## [0.0.7] - 2024-04-06
+## [0.0.7] - 2025-04-06
 
 ### Changed
 
 - Updated mods
 - Updated readme
 
-## [0.0.6] - 2024-04-05
+## [0.0.6] - 2025-04-05
 
 ### Changed
 
@@ -111,7 +117,7 @@
 - skylarbottomdog-Master_Chief_Enemy_HuntsmanVariant
 - NEVAR-Duck_saying_BingChilling
 
-## [0.0.5] - 2024-04-05
+## [0.0.5] - 2025-04-05
 
 ### Changed
 
@@ -119,7 +125,7 @@
 - Fewer unity log
 - Logs are no longer recorded on disk (Adding mods increases logging and disk usage)
 
-## [0.0.4] - 2024-03-31
+## [0.0.4] - 2025-03-31
 
 ### Changed
 
@@ -139,7 +145,7 @@
 - GalaxyMods-MoreShopItems
 - soundedsquash-Clear_UI
 
-## [0.0.3] - 2024-03-29
+## [0.0.3] - 2025-03-29
 
 ### Added
 
@@ -153,7 +159,7 @@
 - TitanVortex-BigNuke
 - Zehs-ExtractionPointConfirmButton
 
-## [0.0.2] - 2024-03-28
+## [0.0.2] - 2025-03-28
 
 ### Changed
 
@@ -164,7 +170,7 @@
 - Danos-REPOStats
 - Muz_tea-Free_Bird
 
-## [0.0.1] - 2024-03-28
+## [0.0.1] - 2025-03-28
 
 First push YIPPPPEEEEEE
 
